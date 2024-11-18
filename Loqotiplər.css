@@ -1,0 +1,92 @@
+.img1 {  
+    width: 200px;
+    margin-top: 20px;
+}
+
+.h11 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text1 {
+    margin: auto;
+    width: 300px;
+}
+
+.btn1 {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 35px;
+    width: 200px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.Twitter {
+    width: 330px;
+    border: 2px black solid;
+}
+
+.img2 {
+   width: 200px;
+   height: 190px;
+   margin-top: 20px;
+}
+
+.h12 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text2 {
+    margin: auto;
+    width: 300px;
+}
+
+.btn2 {
+    background-color: rgb(255, 0, 98);
+    color: white;
+    border-radius: 20px;
+    height: 35px;
+    width: 200px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+
+.Instaqram {
+    background-color: rgb(255, 0, 98);
+    color: white;
+    width: 330px;
+    border: 2px black solid;
+    margin-left: 100px;
+}
+
+.img3 {
+    width: 300px;
+    height: 190px;
+    margin-top: 20px;
+}
+
+.h13 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text3 {
+    margin: auto;
+    width: 300px;
+}
+
+.btn3 {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 35px;
+    width: 200px;
+    margin-bottom: 40px;
+    margin-top: 70px;
+}
+
+.YouTube {
+    width: 370px;
+    border: 2px black solid;
+    margin-left: 100px;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0, 30, 56);
+}
+
+h1 ,table{
+    text-align: center;
+}
+
+div {
+    display: inline-flex;
+}
+
+img {
+    width: 300px;
+    margin-left: 60px;
+}
+
+p {
+    width: 950px;
+}
+
+table,td,th {
+    background-color: white;
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+table {
+    height: 50px;
+    margin-left: 1050px;
+}
